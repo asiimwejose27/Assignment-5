@@ -1,0 +1,26 @@
+body {
+
+    background-color:navajowhite;
+}
+
+
+body > h1 {
+    color: rgba(0, 0, 0, 0.87);
+}
+body > h2 {
+    color: rgba(0, 0, 0, 0.87);
+}
+#para1 {
+    color:limegreen;
+    opacity: 0.4;
+}
+#para2 {
+    color: teal ;
+    opacity: 0.4;
+}
+#para3 {
+    color: firebrick;
+}
+footer {
+    color: darkblue;
+}
